@@ -31,7 +31,7 @@ git clone https://github.com/LangfordKuo/HomePage.git
 3. 点击「联系方式」图标体验弹窗交互
 
 ## 📜 开源协议
-本项目采用 [GPLv3 License](LICENSE) 授权
+本项目采用 [GPL-3.0 License](LICENSE) 授权
 
 > 💡 提示：所有图标资源来自[Font Awesome](https://fontawesome.com)
 
