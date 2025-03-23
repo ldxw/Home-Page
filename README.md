@@ -34,4 +34,5 @@ git clone https://github.com/LangfordKuo/HomePage.git
 本项目采用 [MIT License](LICENSE) 授权
 
 > 💡 提示：所有图标资源来自[Font Awesome](https://fontawesome.com)
+
 > 💡 提示：README使用AI生成
